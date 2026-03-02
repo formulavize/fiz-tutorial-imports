@@ -1,0 +1,12 @@
+#howStick{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/how_stick.svg"
+  background-fit: "contain"
+  background-color: "white"
+}
+#pythonStick{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/python_stick.svg"
+  background-fit: "contain"
+  background-color: "white"
+}
+how(){#howStick}
+python(){#pythonStick}
