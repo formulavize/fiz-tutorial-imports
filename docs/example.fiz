@@ -1,0 +1,15 @@
+#addImg{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/plus.svg"
+  background-fit: "contain"
+}
+#joinImg{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/bowtie.svg"
+  background-fit: "contain"
+}
+#freezeImg{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/snowflake.svg"
+  background-fit: "contain"
+}
+%add{#addImg}
+%join{#joinImg}
+%freeze{#freezeImg}
