@@ -1,5 +1,4 @@
-#antImg{
+ant(){
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/ant.svg"
   background-fit: "contain"
 }
-ant(){#antImg}

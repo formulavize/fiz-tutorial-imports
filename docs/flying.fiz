@@ -1,12 +1,10 @@
-#howStick{
+#bgfit{ background-fit: "contain" }
+#whitebg{ background-color: "white" }
+how(){
+  #bgfit #whitebg
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/how_stick.svg"
-  background-fit: "contain"
-  background-color: "white"
 }
-#pythonStick{
+python(){
+  #bgfit #whitebg
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/python_stick.svg"
-  background-fit: "contain"
-  background-color: "white"
 }
-how(){#howStick}
-python(){#pythonStick}

@@ -1,15 +1,13 @@
-#addImg{
+#bgfit{ background-fit: "contain" }
+%add{
+  #bgfit
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/plus.svg"
-  background-fit: "contain"
 }
-#joinImg{
+%join{
+  #bgfit
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/bowtie.svg"
-  background-fit: "contain"
 }
-#freezeImg{
+%freeze{
+  #bgfit
   background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/snowflake.svg"
-  background-fit: "contain"
 }
-%add{#addImg}
-%join{#joinImg}
-%freeze{#freezeImg}
