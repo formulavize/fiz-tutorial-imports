@@ -1,0 +1,4 @@
+#cube{
+  background-image: "https://formulavize.github.io/fiz-tutorial-imports/imgs/cube.svg"
+  background-fit: "contain"
+}
